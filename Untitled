@@ -1,0 +1,16 @@
+GitHubRepoAssignment Notes
+
+Log in to Github
+Click the "+" in the upper right corner and create a new repository called GitHubRepoAssignment
+opened Terminal on Client
+created a new folder using mkdir
+navigated to this folder
+git init
+copied the links (x2) from github and ran them in the terminal window
+
+git status
+git add .
+git commit -m "add comment here"
+touch readme.md
+git status
+git log
